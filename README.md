@@ -6,17 +6,17 @@
 
 
 
-![picture](photos\landingpage.png)
+<!-- ![picture](photos\landingpage.png) -->
 ### The welcomoe page would great the visitors when they
 
 
-![picture](photos\landingpage2.png)
+<!-- ![picture](photos\landingpage2.png) -->
 
 
 
-![picture](photos\about.png)
+<!-- ![picture](photos\about.png) -->
 
 
 ### When you are ready to book with HBT Hotel, you would head to the "Contact Page" where you can connect with one of the many customer service representatives who is glad to help you plan you vacation.
 
-![picture](photos\contact.png)
+![image](photos\contact.png)
