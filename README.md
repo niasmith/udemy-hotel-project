@@ -4,19 +4,20 @@
 
 ## Languages used to build this website were: HTML and CSS
 
+*****************************************
 
+![](landingpage.png)
+### The welcome page would great the visitors when they
 
-<!-- ![picture](photos\landingpage.png) -->
-### The welcomoe page would great the visitors when they
+*****************************
 
+![](landingpage2.png)
 
-<!-- ![picture](photos\landingpage2.png) -->
-
-
-
-<!-- ![picture](photos\about.png) -->
-
+*****************************
+### The "About Page" where guest can find out more about the website.
+![](about.png)
+*******************************
 
 ### When you are ready to book with HBT Hotel, you would head to the "Contact Page" where you can connect with one of the many customer service representatives who is glad to help you plan you vacation.
-
-![image](photos\contact.png)
+**********************************
+![](contact.png)
