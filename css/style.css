@@ -268,4 +268,9 @@ margin-bottom: 5px;
   background: #444;
   color:white;
   padding:20px;
+  /* margin-bottom: 0px; */
+}
+
+.about-footer{
+  min-height: 12vh;
 }
